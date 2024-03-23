@@ -1,0 +1,10 @@
+.contact {
+    width: 26px;
+    height: 26px;
+    display: flex;
+    gap: 15px;
+    align-items: center ;
+    justify-content: center;
+    margin: 0 auto;
+  
+}
